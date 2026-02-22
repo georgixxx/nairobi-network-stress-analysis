@@ -253,5 +253,5 @@ Feel free to reach out for further discussions regarding this analysis or other 
 - **GitHub:** [georgixxx](https://github.com/georgixxx)
 - **Email:** [georgebrixomuga@gmail.com](mailto:georgebrixomuga@gmail.com)
 - **Portfolio:** [georgixxx.github.io](https://georgixxx.github.io)
-
+---
 [Back to Main Portfolio Website](https://georgixxx.github.io)
